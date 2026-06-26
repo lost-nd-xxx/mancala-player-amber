@@ -4,7 +4,7 @@ file,developer_options.txte52bf331ef98cd4d818d4e19fc37d135size=297date=2012-1
 file,ghost/master/bidama.ico040c944ee623c72eaafe8d8223593faesize=17542date=2012-12-21T00:00:00
 file,ghost/master/descript.txt21eba5280600a817d877259a07dafcc1size=344date=2012-12-21T00:00:00
 file,ghost/master/dic_bootend.txt1c71fd01840528aa6e4bd97a20defc8asize=2653date=2012-12-21T00:00:00
-file,ghost/master/dic_menu_mancala.txt6d4e80bfe18b2a9c302d45cb0e64d902size=9865date=2012-12-21T00:00:00
+file,ghost/master/dic_menu_mancala.txt6440725a2db94ffaaaa97a8a36c0ed1bsize=10114date=2012-12-21T00:00:00
 file,ghost/master/dic_mouse.txtc9b29be7f688e5595a719b7962a0772dsize=380date=2012-12-21T00:00:00
 file,ghost/master/dic_resource.txt1f24f370ae6f7fd3ac7175f71dcab658size=392date=2012-12-21T00:00:00
 file,ghost/master/replace_after.txt4744aa256bfb2c5c615fd3b842dfd724size=110date=2012-12-21T00:00:00
