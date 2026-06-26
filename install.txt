@@ -1,0 +1,7 @@
+charset,UTF-8
+type,ghost
+
+name,うかマンカラをやるこはく
+directory,mancala-player-amber
+
+

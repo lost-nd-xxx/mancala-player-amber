@@ -1,0 +1,22 @@
+＃SHIORI Resource等
+
+＠portalrootbutton.visible
+0
+
+＠recommendrootbutton.caption
+配布元/連絡先
+
+＠portalrootbutton.caption
+-
+
+＊sakura.recommendsites
+配布元
+https://lnx.flop.jp/
+
+＊sakura.recommendsites
+連絡先
+https://lnx.flop.jp/form/postmail.html
+
+＊sakura.recommendsites
+更新履歴
+https://github.com/lost-nd-xxx/mancala-player-amber/commits/main/?author=lost-nd-xxx
