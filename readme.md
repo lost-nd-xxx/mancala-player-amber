@@ -3,6 +3,7 @@
 ## これはなに？
 
 「うかマンカラ」対応ゴーストの実装サンプルです。
+
 実際に遊ぶこともできます。
 
 対応台ゴースト：うかマンカラ - [配布URL](https://github.com/lost-nd-xxx/mancala-board-ghost)
@@ -30,8 +31,10 @@
 
 ## ライセンス
 
-satori.dll は里々のライセンス（BSD-2-Clause）に従います。
-それ以外の絵・辞書は **CC0**（パブリックドメイン）です。自由に使用・改変・再配布できます。
+* satori.dll は里々のライセンス（BSD-2-Clause）に従います。
+* それ以外の絵・辞書は CC0です。
+  * [ライセンス文](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)
+  * 自由に使用・改変・再配布できます。
 
 
 ## 連絡先
