@@ -90,8 +90,11 @@
 ＊OnMancalaGameStart
 ＄うかマンカラ対局中	1
 ＄マンカラ対局相手	\_?（R1）\_?
+＄マンカラ対局相手種別	（when,（vncall,length,R2）>0,ゴースト,ユーザ）
 ＞OnMancalaGameStart_先手	（R0）==first
 ＞OnMancalaGameStart_後手
+＃（マンカラ対局相手種別）に対戦相手の種別を入れています。
+＃種別は「ゴースト」または「ユーザ」のどちらかだけです。
 
 ＃こはくが先手 --------
 
